@@ -1,0 +1,6 @@
+{
+  "name": "Bundle Pods",
+  "description": "An elegant, highly polished e-commerce platform for premium wireless earbuds, audio gear, and custom modular pod bundles, featuring an interactive bundle builder, product filters, dynamic cart management, and checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
